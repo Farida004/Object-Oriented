@@ -11,3 +11,6 @@ Farida Aliyeva
 Fidan Ismayilova
 
 Mustafa Aslanov
+
+# Tech Used
+Java progrmaming Lanaguage, WindowBuilder, Eclipse, JDBC, MySQL Database
